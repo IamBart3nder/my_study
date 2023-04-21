@@ -11,7 +11,7 @@ name = last_name + first_name
 print(name)
 
 a = 6
-b = 2
+b = 4
 print(a + b)
 print(a - b)
 print(a * b)

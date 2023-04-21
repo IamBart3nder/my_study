@@ -1,0 +1,17 @@
+#4월 21일 학습내용
+## tuple(튜플) 형
+### 소괄호 i = ()
+### 튜플은 element값 수정이 불가능
+### mutable 수정 O | immutable 수정 X
+### list, dict | int, float, str, tuple
+
+### 예제
+'''python
+# my_list = [1, 2, 3]
+# my_list[0] = 5
+# print(my_list) # 5, 2, 3
+
+# my_tuple = (1, 2, 3)
+# my_tuple[0] = 5
+# print(my_tuple) # Error 튜플형은 수정 불가능
+'''
